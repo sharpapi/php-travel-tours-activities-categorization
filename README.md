@@ -89,19 +89,60 @@ try {
 
 ## Example Response
 ```json
+
 {
-  "data": {
-    "type": "api_job_result",
-    "id": "job-id-here",
-    "attributes": {
-      "status": "success",
-      "type": "content_processing",
-      "result": {
-        "content": "Processed result content here..."
-      }
+    "data": {
+        "type": "api_job_result",
+        "id": "55bc3311-d16e-4949-83a0-d367b7f79f89",
+        "attributes": {
+            "status": "success",
+            "type": "tth_ta_product_categories",
+            "result": [
+                {
+                    "name": "Boat Tours",
+                    "weight": 9.5
+                },
+                {
+                    "name": "Nature & Wildlife Tours",
+                    "weight": 8.7
+                },
+                {
+                    "name": "Water Sports",
+                    "weight": 7.8
+                },
+                {
+                    "name": "Sightseeing Cruises",
+                    "weight": 9.2
+                },
+                {
+                    "name": "Day Trips",
+                    "weight": 8
+                },
+                {
+                    "name": "Eco Tours",
+                    "weight": 7.5
+                },
+                {
+                    "name": "Adventure Tours",
+                    "weight": 6.8
+                },
+                {
+                    "name": "Cultural Tours",
+                    "weight": 6
+                },
+                {
+                    "name": "Multi-day Tours",
+                    "weight": 5.5
+                },
+                {
+                    "name": "Private Sightseeing Tours",
+                    "weight": 5.2
+                }
+            ]
+        }
     }
-  }
 }
+
 ```
 ---
 
