@@ -16,7 +16,7 @@ Check the full documentation on the [Travel Tours Activities Categorization API 
 | Resource | Link |
 |----------|------|
 | **Main API Documentation** | [Authorization, Webhooks, Polling & More](https://documenter.getpostman.com/view/31106842/2s9Ye8faUp) |
-| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsVh) |
+| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGseZ) |
 | **Product Details** | [SharpAPI.com](https://sharpapi.com/en/catalog/ai/travel-tourism-hospitality/tours-activities-product-categorization) |
 | **SDK Libraries** | [GitHub - SharpAPI SDKs](https://github.com/sharpapi) |
 
